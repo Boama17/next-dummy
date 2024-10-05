@@ -40,24 +40,134 @@ xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class
 </div>
 <div className="graph h-64">
 <div className="top-bars flex">
-<div className="single w-2 h-28 bg-gray-100 flex">
+    <div className="w-2 h-28 bg-gray-100 flex">
+    </div>
+    <div className="blak w-2 h-6 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-12 w-2 h-16 bg-black">
+    </div>
+    <div className="w-2 h-28 bg-gray-100 flex ml-9">
+    </div>
+    <div className="th w-2 h-5 bg-black">
+    </div>
+    <div className="w-2 h-28 bg-gray-100 flex ml-9">
+    </div>
+    <div className="tr w-2 h-12 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-8 w-2 h-22 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-10 w-2 h-18 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-12 w-2 h-16 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-4 w-2 h-24 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-14 w-2 h-14 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-9 w-2 h-19 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-5 w-2 h-23 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-14 w-2 h-14 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-20 w-2 h-8 bg-black">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="mt-10 w-2 h-18 bg-black">
+    </div>
+
 </div>
-<div className="blak w-2 h-6 bg-black">
-</div>
-<div className="single flex w-2 h-28 bg-gray-100 ml-9">
-</div>
-<div className="mt-12 w-2 h-16 bg-black">
-</div>
-<div className="single w-2 h-28 bg-gray-100 flex ml-9">
-</div>
-<div className="th w-2 h-5 bg-black">
-</div>
-<div className="single w-2 h-28 bg-gray-100 flex ml-9">
-</div>
-<div className="tr w-2 h-12 bg-black">
-</div>
+      <div
+       className="times mt-5">
+        <span className="text-gray-300 text-xs">8h</span>
+        <span className="time text-gray-300 text-xs">7h</span>
+        <span className="time text-gray-300 text-xs">6h</span>
+        <span className="time text-gray-300 text-xs">5h</span>
+        <span className="time text-gray-300 text-xs">4h</span>
+        <span className="time text-gray-300 text-xs">3h</span>
+        <span className="time text-gray-300 text-xs">2h</span>
+        <span className="time text-gray-300 text-xs">1h</span>
       </div>
-      </div>
+  <div className="bottom flex mt-4">
+  <div className="w-2 h-28 bg-gray-100 flex">
+    </div>
+    <div className="w-2 h-6 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-16 bg-green-500">
+    </div>
+    <div className="w-2 h-28 bg-gray-100 flex ml-9">
+    </div>
+    <div className=" w-2 h-5 bg-green-500">
+    </div>
+    <div className="w-2 h-28 bg-gray-100 flex ml-9">
+    </div>
+    <div className=" w-2 h-12 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-20 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-16 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-16 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-24 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-14 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-20 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="half w-2 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-14 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-8 bg-green-500">
+    </div>
+    <div className="flex w-2 h-28 bg-gray-100 ml-9">
+    </div>
+    <div className="w-2 h-20 bg-green-500">
+    </div>
+  </div>
+</div>
       </div>
             </div>
 }
