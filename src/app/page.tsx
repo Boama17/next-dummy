@@ -3,12 +3,13 @@ import { useState } from 'react';
 import Nav from "./sidebar.tsx";
 import Main from './head.tsx';
 import Activity from "./activity.tsx";
+import Maps from "./maps.tsx";
 
 export default function Home() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
 
   return (
-    <div className={`home ${isSidebarOpen ? 'ml-72' : 'ml-24'} mt-4 flex`}>
+    <div className={`home ${isSidebarOpen ? 'ml-72' : 'ml-48'} mt-4 flex`}>
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       <link
