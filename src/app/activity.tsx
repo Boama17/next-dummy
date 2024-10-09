@@ -100,7 +100,7 @@ xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class
 </div>
       <div
        className="times mt-5">
-        <span className="text-gray-300 text-xs">8h</span>
+        <span className="  text-gray-300    text-xs">8h</span>
         <span className="time text-gray-300 text-xs">7h</span>
         <span className="time text-gray-300 text-xs">6h</span>
         <span className="time text-gray-300 text-xs">5h</span>
